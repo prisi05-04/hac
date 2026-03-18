@@ -11,7 +11,7 @@ class MyBook extends Book{
    this.title=s;
   }
 }
-//Write MyBook class here
+
 
 public class Main{
 	
